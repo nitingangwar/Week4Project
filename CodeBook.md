@@ -1,6 +1,6 @@
-#The Tidy data contains 180 entries and 88 columns
+# The Tidy data contains 180 entries and 88 columns
 
-##The Columns names are below
+## The Columns names are below
 
  [1] "subject"                                           
  [2] "activity"                                          
