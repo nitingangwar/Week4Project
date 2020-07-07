@@ -1,16 +1,27 @@
 # The Tranformation is done using below varibales
 
 activities: Variable containing activity_labels.txt
+
 features: Variable containing features.txt
+
 subject_train: Variable containing subject_train.txt
+
 y_train: Variable containing y_train.txt
+
 x_train: Variable containing X_train.txt
+
 subject_test: Variable containing subject_test.txt
+
 y_test: Variable containing y_test.txt
+
 x_test: Variable containing X_test.txt
+
 X, Y and Subject: Variables containing merged train and test data of subject, activity and feature
+
 Merged_Data: Variable containing full dataset
+
 TidyData: Variable containing only specific columns that include mean, std, subject and activity
+
 FinalData: Variable containing data with average of each variable for each activity and subject of dataset_extract
 
 # The Tidy data contains 180 entries and 88 columns
